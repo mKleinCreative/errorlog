@@ -1,25 +1,26 @@
 # errorlog
 errorlog for stellaris debugging
 
-[13:13:59][lexer.cpp:277]: File 'mod/default.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_1155987128.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_1157515399.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_1161435032.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_1193511530.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_1197069797.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_1199741828.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_1202444327.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_736283200.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_749496170.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_755545713.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_756110740.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_790455347.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_803491311.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_808227508.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_810204739.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_818959549.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_958321454.mod' should be in utf8-bom encoding (will try to use it anyways)
-[13:13:59][lexer.cpp:277]: File 'mod/ugc_959094804.mod' should be in utf8-bom encoding (will try to use it anyways)
+```
+[13:13:59][lexer.cpp:277]: File 'mod/default.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_1155987128.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_1157515399.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_1161435032.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_1193511530.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_1197069797.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_1199741828.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_1202444327.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_736283200.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_749496170.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_755545713.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_756110740.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_790455347.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_803491311.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_808227508.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_810204739.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_818959549.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_958321454.mod' should be in utf8-bom encoding (will try to use it anyways) \n
+[13:13:59][lexer.cpp:277]: File 'mod/ugc_959094804.mod' should be in utf8-bom encoding (will try to use it anyways) \n
 [13:14:22][modifier.cpp:459]: Missing modifier icon "GFX_country_resource_engineering_research_add" or "gfx/interface/icons/modifiers/country_resource_engineering_research_add.dds"
 [13:14:22][modifier.cpp:459]: Missing modifier icon "GFX_mod_planet_fortification_strength" or "gfx/interface/icons/modifiers/mod_planet_fortification_strength.dds"
 [13:14:22][modifier.cpp:459]: Missing modifier icon "GFX_mod_country_border_friction_mult" or "gfx/interface/icons/modifiers/mod_country_border_friction_mult.dds"
@@ -46,3 +47,4 @@ errorlog for stellaris debugging
 [13:14:24][effect_impl.cpp:1128]: Error in fire event effect at  file: events/addonmenu.txt line: 94, could not find event: zhowstart.10
 [13:14:24][effect_impl.cpp:1128]: Error in fire event effect at  file: events/addonmenu.txt line: 124, could not find event: tnfMenu.1
 [13:14:24][effect_impl.cpp:1128]: Error in fire event effect at  file: events/addonmenu.txt line: 132, could not find event: zhowstart.3
+```
